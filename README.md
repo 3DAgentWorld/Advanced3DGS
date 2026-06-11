@@ -53,7 +53,7 @@ This is the official code repository for **"Advances in Rasterization Rendering 
 | Wavelet-GS | `https://github.com/ALEX5874/Wavelet-GS` |
 | Compact-3DGS | `https://github.com/maincold2/Compact-3DGS` |
 | ContextGS | `https://github.com/wyf0912/ContextGS` |
-| HAC++ | https://github.com/YihangChen-ee/HAC-plus |
+| HAC++ | `https://github.com/YihangChen-ee/HAC-plus` |
 
 ## Supported Datasets
 - [x] Mip-NeRF 360
