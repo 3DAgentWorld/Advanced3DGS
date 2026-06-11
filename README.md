@@ -25,7 +25,6 @@ This is the official code repository for **"Advances in Rasterization Rendering 
 - [ ] Wavelet-GS (ACMMM 2025)
 - [ ] Compact-3DGS (CVPR 2024)
 - [ ] ContextGS (NeurIPS 2024)
-- [ ] FreGS (CVPR 2024)
 - [ ] HAC++ (TPAMI 2025)
 
 ## Third-party Source Repositories
