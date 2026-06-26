@@ -26,6 +26,7 @@ This is the official code repository for **"3D Gaussian Splatting Rasterization:
 - [x] Compact-3DGS (CVPR 2024)
 - [x] ContextGS (NeurIPS 2024)
 - [x] HAC++ (TPAMI 2025)
+- [ ] 3DCS (CVPR 2025)
 
 ## Third-party Source Repositories
 | Method | Upstream repository |
@@ -53,6 +54,7 @@ This is the official code repository for **"3D Gaussian Splatting Rasterization:
 | Compact-3DGS | `https://github.com/maincold2/Compact-3DGS` |
 | ContextGS | `https://github.com/wyf0912/ContextGS` |
 | HAC++ | `https://github.com/YihangChen-ee/HAC-plus` |
+| 3DCS | `https://github.com/convexsplatting/convex-splatting` |
 
 ## Supported Datasets
 - [x] Mip-NeRF 360
